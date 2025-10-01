@@ -10,7 +10,7 @@
 |--------------|------------------|
 | **Languages** | python |
 | **Technologies** | machine-learning/gui/data-science |
-| **Frameworks** | none |
+| **Frameworks** | jupyter/pandas |
 | **Status** | showcase |
 | **Year** | 2024 |
 | **Featured** | false |
